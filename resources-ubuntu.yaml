@@ -1,0 +1,2 @@
+resource_registry:
+  "Evoila::Deployment::Beats::Filebeat": src/deploy-filebeat-ubuntu.yaml
